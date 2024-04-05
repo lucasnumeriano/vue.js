@@ -1,9 +1,10 @@
 const Pessoa = {
     data() {
         return {
-            name: "Lucas"
+            name: "Lucas",
+            age: 18
         }
     }
 }
 
-Vue.createApp(Pessoa).mount("#pessoa")
+Vue.createApp(Pessoa).mount("#pessoa");
