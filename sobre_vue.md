@@ -8,7 +8,7 @@ Vue (pronuncia-se, view) é um framework JavaScript para criação de componente
 
 Vue pode ser integrada em um projeto de várias formas dependendo de suas necessidades, pois foi projetado para ser incrementalmente adotável.
 
-Se for iniciante e não ter grandes conhecimentos com ferramentas de build baseadas em Node.js instale atráves do CDN: <script src="https://cdn.jsdelivr.net/npm/vue@3.0.11"></script>
+Se for iniciante e não ter grandes conhecimentos com ferramentas de build baseadas em Node.js instale atráves do CDN: <code><script src="https://cdn.jsdelivr.net/npm/vue@3.0.11"></script></code>
 
 A quatro formas principais de instalar o Vue:
 
