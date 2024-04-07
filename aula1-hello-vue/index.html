@@ -9,7 +9,14 @@
 </head>
 <body>
     <div id="pessoa">
-        <p>Nome: {{ name }} Idade: {{ age }}</p>
+        <form id="app-form">
+            <input type="text" v-model="input_name" placeholder="Dígite seu nome">
+            <input type="number" v-model="input_age_work" placeholder="Anos como dev">
+            <input type="date" v-model="input_birthday" placeholder="Seu aniversário é?">
+            <input type="submit" value="Enviar" v-on:click="submitForm">
+        </form>
+        <p>Hello Vue! Prazer, eu sou {{ name }}. Programo a {{ age_work }}anos, se quiser me presentear meu aniversário é no dia {{ birthday }}.</p>
+        <p>Datab... : {{ input_name }}</p>
     </div>
 </body>
 </html>
