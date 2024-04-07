@@ -1,6 +1,6 @@
 # Vue.js
 
-Nota: Este documento está sendo utilizado apenas para estudo pessoal e não substitui a documentação oficial do [Vue.js](https://vuejsbr-docs-next.netlify.app/guide/introduction.html).
+<i>Nota: Este documento está sendo utilizado apenas para estudo pessoal e não substitui a documentação oficial do [Vue.js](https://vuejsbr-docs-next.netlify.app/guide/introduction.html).</i>
 
 Vue (pronuncia-se, view) é um framework JavaScript para criação de componentes de interfaces de usúario e single-page aplication (aplicações de página única). Está entre os frameworks front-end mais utilizados e tem baixa curva de aprendizado.
 
