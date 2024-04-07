@@ -1,6 +1,6 @@
 # Vue.js
 
-Nota: Este documento está sendo utilizado apenas para estudo pessoal e não substitui a documentação oficial do [Vue.js](https://vuejsbr-docs-next.netlify.app/guide/installation.html#npm).
+Nota: Este documento está sendo utilizado apenas para estudo pessoal e não substitui a documentação oficial do [Vue.js](https://vuejsbr-docs-next.netlify.app/guide/introduction.html).
 
 Vue (pronuncia-se, view) é um framework JavaScript para criação de componentes de interfaces de usúario e single-page aplication (aplicações de página única). Está entre os frameworks front-end mais utilizados e tem baixa curva de aprendizado.
 
@@ -14,7 +14,7 @@ A quatro formas principais de instalar o Vue:
 
 <ol>
     <li>Importar por <strong>CDN</strong> na página desejada.</li>
-    <li>Baixando os arquivos JS. Conferir documentação [oficial](https://vuejsbr-docs-next.netlify.app/guide/installation.html#npm)</li>
+    <li>Baixando os arquivos JS. Conferir documentação [oficial](https://vuejsbr-docs-next.netlify.app/guide/installation.html#npm).</li>
     <li>Usando o <strong>npm</strong>.</li>
     <li>Com a ferramenta <strong>CLI</strong> oficial para criar o projeto. Desta forma se usa configurações previamente ajustadas para o desenvolvimento front-end.</li>
 </ol>
