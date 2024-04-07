@@ -27,8 +27,9 @@ A extensão Vue Devtools vai ajudar a inspecionar e depurar suas aplicações at
 
 A instalação através do npm é recomendada para construir aplicações em larga escala. Combina de forma perfeita com bundlers como webpack ou Rollup.
 
-<code># última versão estável</code>
-<code>$ npm i vue@next</code>
+<code># última versão estável 
+<br>
+$ npm i vue@next</code>
 
 Para utilizar os Sigle-File Components (separação de cada componente dentro de um arquivo com extensão<code>.vue</code>) é necessário instalar <code>@vue/compiler-sfc</code>:
 
