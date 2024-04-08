@@ -1,5 +1,7 @@
 # Diretivas
 
+<p><i>Nota: Este documento está sendo utilizado apenas para estudo pessoal e não substitui a documentação oficial do [Vue.js](https://vuejsbr-docs-next.netlify.app/guide/introduction.html).</i></p>
+
 <p>Diretivas são pre fixadas com <code>-v</code> para indicar que são atributos especiais providos pelo Vue, eles aplicam comportamento especial de reatividade ao DOM renderizado, o Vue.js reconhece e manipula durante a compilação do template.
 <br><br>
 Por exemplo, a diretiva v-bind é usada para vincular dinamicamente valores de propriedades HTML a expressões Vue, enquanto v-if e v-for são usadas para controlar a renderização condicional e repetida de elementos, respectivamente.
